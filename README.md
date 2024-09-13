@@ -1,4 +1,4 @@
-# TempChat
+# TempoChat
 A simple self hosted caht application
 
 Will one day be IRC compliant
